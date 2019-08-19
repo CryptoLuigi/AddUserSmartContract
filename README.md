@@ -17,7 +17,7 @@ A user account has different properties.
 The block number is used a way to determine when the user sign up for the program.
 
 ```
-Memeber since block: 234234
+Member since block: 234234
 ```
 With the user ID number a Users records can be pulled up.
 This is accompolished with the user's ID number which is generated upon completion.
